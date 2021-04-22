@@ -1,9 +1,9 @@
 const Memes = [
     {
         id: '01',
-        title: "A melhor invenção",
-        desc: "Genial",
-        img: "https://scontent.fbsb3-1.fna.fbcdn.net/v/t1.6435-9/177565176_1253486698465330_6184829210043265913_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=9267fe&_nc_eui2=AeFTflaRGN9lvw8bI-FVJ_r5KgZ07a-MQc0qBnTtr4xBzd1Ujv4c4EHBIm6ORrDI6G6wblv0_fc3W3Tlk5PS7Ktm&_nc_ohc=6oF94HmXNoIAX_B8Ggh&_nc_ht=scontent.fbsb3-1.fna&oh=03d6244e14de090edfcfdd560e07b458&oe=60A76C84",
+        title: "Stonks",
+        desc: "O famoso copo meio cheio",
+        img: "https://scontent.fbsb3-1.fna.fbcdn.net/v/t1.6435-9/173137277_10161529712396840_1539881695110884992_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeH0wc4xFpA39w6ALUmNU7gjVAnGrsvao-JUCcauy9qj4oItTKyYJm3Qw3jUKQaUmB9mAlq7fo0Ro9XP2PAiNB1I&_nc_ohc=33jn8DCiZMwAX9F4nTU&_nc_ht=scontent.fbsb3-1.fna&oh=c233cd397c57d5bf4e1873c706454a9a&oe=60A6A0F2",
         
     },
    
@@ -31,9 +31,9 @@ const Memes = [
     },
     {
         id: '05',
-        title: "Stonks",
-        desc: "O famoso copo meio cheio",
-        img: "https://scontent.fbsb3-1.fna.fbcdn.net/v/t1.6435-9/173137277_10161529712396840_1539881695110884992_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeH0wc4xFpA39w6ALUmNU7gjVAnGrsvao-JUCcauy9qj4oItTKyYJm3Qw3jUKQaUmB9mAlq7fo0Ro9XP2PAiNB1I&_nc_ohc=33jn8DCiZMwAX9F4nTU&_nc_ht=scontent.fbsb3-1.fna&oh=c233cd397c57d5bf4e1873c706454a9a&oe=60A6A0F2",
+        title: "A melhor invenção",
+        desc: "Genial",
+        img: "https://scontent.fbsb3-1.fna.fbcdn.net/v/t1.6435-9/177565176_1253486698465330_6184829210043265913_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=9267fe&_nc_eui2=AeFTflaRGN9lvw8bI-FVJ_r5KgZ07a-MQc0qBnTtr4xBzd1Ujv4c4EHBIm6ORrDI6G6wblv0_fc3W3Tlk5PS7Ktm&_nc_ohc=6oF94HmXNoIAX_B8Ggh&_nc_ht=scontent.fbsb3-1.fna&oh=03d6244e14de090edfcfdd560e07b458&oe=60A76C84",
         
     },
  ]
