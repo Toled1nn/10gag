@@ -3,7 +3,7 @@
 ## Alguns comandos para iniciar o projeto:
 
 ### Precisamos instalar algumas dependências na máquina para rodar o programa.
-#### o primeiro que precisamos é o NodeJS:
+#### A primeira que precisamos é o NodeJS:
 [Instalar NodeJS](https://nodejs.org/en/download/)
 
 ### Antes de Rodar o servidor, instalar um dependência local na máquina com o comando:
