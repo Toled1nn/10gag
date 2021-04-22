@@ -15,3 +15,7 @@ npm run install-all
 
 ### Com todas as dependências do projeto instaladas, basta rodar
 npm run start
+
+### Logins:
+### Adm - luiz@email      senha - 123456
+### User - user@email     senha - 654321
