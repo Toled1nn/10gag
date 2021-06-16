@@ -36,6 +36,21 @@ User.login = async (req, result) => {
 
 }
 
+User.index = async (req, result) => {
+    result.status(200).send({ Users });
+}
+
+User.Signup = async (req, result) => {
+
+    email = req.body.email;
+    senha = req.body.senha;
+    id = String(Math.random() * (99999 - 3) + 3);
+
+    Users.push({id, email, senha});
+
+    result.status(200).send({message: "Cadastrado com sucesso"});
+}
+
 
 
 module.exports = User;

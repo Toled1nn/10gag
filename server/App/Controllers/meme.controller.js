@@ -15,6 +15,17 @@ Meme.index = async (req, result) => {
     result.status(200).send(Memes)
 }
 
+Meme.postagem = async (req, result) => {
+    title = req.body.title;
+    desc = req.body.desc;
+    img = req.body.imglink;
+    id = String(Math.random() * (99999 - 3) + 3);
+
+    Memes.push(id, title, desc, img);
+
+    result.status(200).send({message: "Cadastrado com sucesso"});
+}
+
 
 
 module.exports = Meme;
