@@ -14,7 +14,7 @@ export const memes = () => {
 
 }
 
-export const post = (title,desc,img) => {
+export const postagem = (title,desc,img) => {
     return api.post('/memes',{title,desc,img});
 
 }
