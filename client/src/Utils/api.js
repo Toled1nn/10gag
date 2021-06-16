@@ -13,3 +13,8 @@ export const memes = () => {
     return api.get('/memes');
 
 }
+
+export const post = (title,desc,img) => {
+    return api.post('/memes',{title,desc,img});
+
+}
