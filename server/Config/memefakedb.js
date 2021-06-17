@@ -1,41 +1,49 @@
 const Memes = [
     {
         id: '01',
-        title: "Stonks",
-        desc: "O famoso copo meio cheio",
-        img: "https://scontent.fbsb3-1.fna.fbcdn.net/v/t1.6435-9/173137277_10161529712396840_1539881695110884992_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeH0wc4xFpA39w6ALUmNU7gjVAnGrsvao-JUCcauy9qj4oItTKyYJm3Qw3jUKQaUmB9mAlq7fo0Ro9XP2PAiNB1I&_nc_ohc=33jn8DCiZMwAX9F4nTU&_nc_ht=scontent.fbsb3-1.fna&oh=c233cd397c57d5bf4e1873c706454a9a&oe=60A6A0F2",
+        title: "Ta passada?",
+        desc: "Pfizer",
+        img: "https://scontent.fbsb3-1.fna.fbcdn.net/v/t1.6435-9/198564455_2928481687423825_6331856953168925908_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=e3f864&_nc_eui2=AeE2-TAreRWrUXp5bao-J7jLGuu-22fU9xoa677bZ9T3GtoUWy4DdyUvFHgHjRya93Dp-DrzFHxXJec4W9O8z6gy&_nc_ohc=KqQpXS4EXXwAX-APagD&_nc_ht=scontent.fbsb3-1.fna&oh=821909aa02d3c7d51e77c967c5e5d557&oe=60D0347B",
         
     },
-   
     {
         id: '02',
-        title: "Lembrete diário para ajustar a postura",
-        desc: "É triste",
-        img: "https://scontent.fbsb3-1.fna.fbcdn.net/v/t1.6435-9/176368103_10159025951251585_553114042659049512_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=2c4854&_nc_eui2=AeH_Wq11aFT0yeF_C4MCm98XbdGil54makVt0aKXniZqRVE-ZtM-7DDdrSI9hOzhV1cyMAZXuuRtQafCcE0UGzlh&_nc_ohc=sA1D9bOivyAAX-vZBzK&_nc_ht=scontent.fbsb3-1.fna&oh=d44b4f5f4f23571c6d39386c4666cdca&oe=60A73787",
+        title: "Pode parar ja",
+        desc: "",
+        img: "https://scontent.fbsb3-1.fna.fbcdn.net/v/t1.6435-9/196059742_1282894762191190_3125042837237034276_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=9267fe&_nc_eui2=AeENW-noRKvLrkFtIvAw47-8DP93zncgCtcM_3fOdyAK1xn46PJ4HCitEgmTGV8uijO7vL-kMWj3UbYlmHUBUZXI&_nc_ohc=9E9JY39kZ14AX-uXjMb&_nc_ht=scontent.fbsb3-1.fna&oh=bd3112cb4612d27637e58b581f01ac17&oe=60D15781",
+        
+    },
+    {
+        id: '03',
+        title: "Tudo que vai...",
+        desc: "",
+        img: "https://scontent.fbsb3-1.fna.fbcdn.net/v/t1.6435-9/202282536_1468303253543145_1115336666237462117_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=8bfeb9&_nc_eui2=AeGLMrLV9P8KKX1r1PYXoVsRElUy9jpVWtESVTL2OlVa0Rf9JB7nQNEeYIviWwA5U-7XfpIlmsrIcWME44MXnfVK&_nc_ohc=2rkbkkX9JfUAX-M8HOo&_nc_ht=scontent.fbsb3-1.fna&oh=069ef3ec44d6f11e3df3f79761a319cc&oe=60D069B9",
         
     },
    
     {
-        id: '03',
-        title: "A parte mais dolorosa dos jogos",
-        desc: "RIP Yoshi",
-        img: "https://scontent.fbsb3-1.fna.fbcdn.net/v/t1.6435-9/174670352_498037911560074_5752760404862337495_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeHTKG5qcS-OWgT3X-AEJ7LLsWJbziYIdJyxYlvOJgh0nIp0cyIGBuF_Tl3RHSujfypBkQsyjV50n8qgb8jDRl9E&_nc_ohc=N3iB3YKKIoAAX9FdKh7&_nc_ht=scontent.fbsb3-1.fna&oh=3bbcdfdcb8d52e960a12a50b12184813&oe=60A6F557",
-        
-    },
-    {
         id: '04',
-        title: "Deadpool resolve tudo",
-        desc: "Spider-pó",
-        img: "https://scontent.fbsb3-1.fna.fbcdn.net/v/t1.6435-9/174322066_5637651546307766_2777914109919935118_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=8bfeb9&_nc_eui2=AeFS5sX4TEIeqvM3v0xITnki5gGXQ2frtPPmAZdDZ-u085xOjDRwjbDEXnfzKWIIQm0j5wgqgTqIvyq4MnXchYEJ&_nc_ohc=7Jo136J260UAX8IKu_a&_nc_ht=scontent.fbsb3-1.fna&oh=15a74d17b830a985096b77884810e3df&oe=60A8A8C3",
+        title: "Invencível",
+        desc: "El invencible",
+        img: "https://scontent.fbsb3-1.fna.fbcdn.net/v/t1.6435-9/193553589_4040487166032459_814026049407714771_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=8bfeb9&_nc_eui2=AeEphPntd_ubptV-_8UW4fzxHsS92JDNRlsexL3YkM1GWwwiaBNf79Wra-bEpl4ySHNfLY5Dpy01Eo4dNY2KXHGS&_nc_ohc=s1wI4NkhwcUAX_ac220&tn=miXqnUgjb40SOHES&_nc_ht=scontent.fbsb3-1.fna&oh=8a28774f2ae40e4ddd203bec888792c2&oe=60D04BFA",
         
     },
+   
     {
         id: '05',
-        title: "A melhor invenção",
-        desc: "Genial",
-        img: "https://scontent.fbsb3-1.fna.fbcdn.net/v/t1.6435-9/177565176_1253486698465330_6184829210043265913_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=9267fe&_nc_eui2=AeFTflaRGN9lvw8bI-FVJ_r5KgZ07a-MQc0qBnTtr4xBzd1Ujv4c4EHBIm6ORrDI6G6wblv0_fc3W3Tlk5PS7Ktm&_nc_ohc=6oF94HmXNoIAX_B8Ggh&_nc_ht=scontent.fbsb3-1.fna&oh=03d6244e14de090edfcfdd560e07b458&oe=60A76C84",
+        title: "OPA, PERAE",
+        desc: "RIP",
+        img: "https://scontent.fbsb3-1.fna.fbcdn.net/v/t1.6435-9/132039931_331584835037140_3607910615087837180_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeF6wSX2H4EXW1rv5nqtsW1ullwEtw0OZGiWXAS3DQ5kaBMS-TIV2zSn0T1qcACY0Q0oITPM8YTaWwhmw2D90Cwk&_nc_ohc=uOcmZxnhH7QAX-1FJ-w&_nc_ht=scontent.fbsb3-1.fna&oh=f81c7f3d591edc0414f2dce9ef0fe1ba&oe=60D0E2B7",
         
     },
+    
+    {
+        id: '06',
+        title: "É pra estudar mainha",
+        desc: "Genial",
+        img: "https://scontent.fbsb3-1.fna.fbcdn.net/v/t1.6435-0/p526x296/197090980_10159062584748956_8436747031782796323_n.png?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeHaFSy3M3YnrCZv7GUyz7LA0L_vehC5DCjQv-96ELkMKFBlZF5Wa1HF3TeXloVh8jrDVcV1pS50k9PwhaX0-eZC&_nc_ohc=r-ir-L5k2ggAX-BhgsE&_nc_ht=scontent.fbsb3-1.fna&tp=30&oh=ce865099a575c4ac7864403f2102ac8c&oe=60D176FA",
+        
+    }
  ]
 
 module.exports = Memes;

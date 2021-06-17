@@ -18,9 +18,10 @@ Meme.index = async (req, result) => {
 Meme.postagem = async (req, result) => {
     title = req.body.title;
     desc = req.body.desc;
-    img = req.body.imglink;
+    img = req.body.img;
     id = String(Math.random() * (99999 - 3) + 3);
-
+    
+    console.log(img) 
     Memes.push({id, title, desc, img});
 
     result.status(200).send({message: "Cadastrado com sucesso"});
